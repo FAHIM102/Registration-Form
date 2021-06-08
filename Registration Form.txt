@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Form</title>
+</head>
+<body>
+	<h1>HTML Form</h1>
+
+
+
+	<label for="fname">First Name:</label>
+	<input type="email" id="fname" name="fname">
+	
+	<br><br>
+	
+	<label for="lname">Last Name:</label>
+	<input type="text" id="lname" name="lname">
+	
+	<br><br>
+
+	<input type="radio" id="male" name="gender" value="male">
+	<label for="male">Male</label>
+	<br>
+	<input type="radio" id="female" name="gender" value="female">
+	<label for="female">Female</label>
+	<br>
+	<input type="radio" id="other" name="gender" value="other">
+	<label for="other">Other</label>
+	<br>
+	<br>
+    <label for="DoB">DoB:</label>
+	<textarea id="DoB" name="DoB" rows="10" cols="20"></textarea>
+
+	<br>
+	<br>
+
+
+	<label for="Present Address">Present Address:</label>
+	<textarea id="Present Address" name="Present Address" rows="05" cols="10"></textarea>
+
+	<label for="Permanent Address ">Present Address:</label>
+	<textarea id="Permanent Address" name=permanent Address" rows="05" cols="10"></textarea>
+
+	<label for="phone ">Phone:</label>
+	<textarea id="Phone" name=permanent Address" rows="05" cols="10"></textarea>
+
+
+	<label for="Email ">Email:</label>
+	<textarea id="Email" name=permanent Address" rows="05" cols="10"></textarea>
+
+	<label for="Personal Website Lienk ">Personal Website Lienk:</label>
+	<textarea id="Personal Website Lienk" name=Personal Website Lienk " rows="05" cols="10"></textarea>
+
+
+	
+	
+	<br><br>
+
+	
+</body>
+</html>
